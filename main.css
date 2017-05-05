@@ -51,8 +51,30 @@
 #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
 #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
 #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
-#section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
-#section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+#section4 {padding-top:50px;height:500px;color: #fff; background-color: #ff98b0;}
+#section51 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+#section52 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+/*Code for recoloring dropdown links in menu nav*/
+.inverse-dropdown{
+    background-color: #222;
+    border-color: #080808;
+}
+
+.inverse-dropdown li a{
+    color: #999;
+}
+
+.inverse-dropdown li a:hover{
+    color: #fff;
+    background: #222;
+}
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+    background-image: linear-gradient(to bottom,#eee 0,#ddd 100%);
+    color: #111;
+}
+
 
 @media all and (max-width: 372px){
     .hidden-xxs{
