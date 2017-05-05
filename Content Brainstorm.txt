@@ -1,0 +1,34 @@
+Ideas:
+Make content all on one page. Make links link to locations on the page.
+
+Categories:
+Education
+    Bachelor's Degree in Chemistry 2008
+    Coding Temple Bootcamp
+Skills/Interests
+    Name all skills learned at coding temple
+    Language: English, Polish, Spanish
+    Business Skills: Photoshop, After Effects, QuickBooks, Product Photography
+    Interests - Photography, 3D Printing, Camping & Outdoors, DIY Build Projects, Bicyling/Motorcycling, Fixing Stuff, Disc Golf
+Work Experience
+    Survival-Pax & List Jobs Done
+Resume
+Connect
+    Email
+    LinkedIn
+
+To Do:
+Create a LinkedIn Page
+
+Top Paragraph:
+Szymon Dabrowski
+Full-Stack Software Developer
+
+My Journey:
+From a Chemistry undergrad, To starting my own (hyperlink to Survival-Pax.com) ecommerce business, To learning software development
+
+Creative Ideas:
+Have neat images behind the boxes
+Possibly faded photoshop images that I took
+
+Carousel in-line as one of the elements showing some images or work that I did
